@@ -1,0 +1,17 @@
+﻿*.rs
+*.go
+*.php
+*.js
+*.cjs
+*.mjs
+*.ts
+*.sql
+*.pfx
+*.p12
+*.key
+.env*
+node_modules/
+src/
+src-tauri/
+backend/
+admin-php/

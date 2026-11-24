@@ -1,0 +1,8 @@
+﻿*.exe binary
+*.msi binary
+*.msix binary
+*.cer binary
+*.png binary
+*.bat text eol=crlf
+*.txt text eol=lf
+*.md text eol=lf
